@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "prefabPath": "C:\\Users\\Links\\.gradle\\caches\\modules-2\\files-2.1\\com.google.prefab\\cli\\2.1.0\\aa32fec809c44fa531f01dcfb739b5b3304d3050\\cli-2.1.0-all.jar",
+  "packages": [
+    "C:\\Users\\Links\\.gradle\\caches\\9.0.0\\transforms\\063d56f8230050219a7556e2335c975c\\transformed\\react-android-0.83.0-debug\\prefab",
+    "D:\\ZuGo2-main\\node_modules\\react-native-reanimated\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
+    "D:\\ZuGo2-main\\node_modules\\react-native-worklets\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
+    "C:\\Users\\Links\\.gradle\\caches\\9.0.0\\transforms\\1d4a10808e8c52c7878f27ae053a2382\\transformed\\hermes-android-0.14.0-debug\\prefab",
+    "C:\\Users\\Links\\.gradle\\caches\\9.0.0\\transforms\\68c7c4b5936897785c81b6f5aff27252\\transformed\\fbjni-0.7.0\\prefab"
+  ]
+}
